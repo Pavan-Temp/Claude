@@ -4,7 +4,6 @@
 __pycache__/
 *.o
 *.exe
-*.py
 
 # Dependencies
 node_modules/
