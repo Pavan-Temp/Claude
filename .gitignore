@@ -1,0 +1,41 @@
+# Compiled code
+*.class
+*.pyc
+__pycache__/
+*.o
+*.exe
+*.py
+
+# Dependencies
+node_modules/
+vendor/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+.tmp
+
+# Build directories
+build/
+dist/
+target/
+
+# Logs
+*.log
+logs/
+
+# Database files
+*.db
+*.sqlite
+
+# Sensitive information
+.env
+config.json
+secrets.txt
